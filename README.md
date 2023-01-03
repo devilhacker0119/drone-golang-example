@@ -11,3 +11,6 @@ Please see the [drone tutorial](https://github.com/go-training/drone-tutorial).
 ## Traefik + Docker Deploy
 
 <img src="screenshots/traefik+docker+golang.png" />
+
+[Authored by @devalpha18](https://github.com/devalpha18)
+
